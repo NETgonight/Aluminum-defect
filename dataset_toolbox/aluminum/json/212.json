@@ -1,0 +1,60 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "zhen_kong",
+      "points": [
+        [
+          327.0,
+          254.5
+        ],
+        [
+          323.0,
+          254.5
+        ],
+        [
+          320.5,
+          252.0
+        ],
+        [
+          320.5,
+          250.0
+        ],
+        [
+          322.0,
+          248.5
+        ],
+        [
+          323.0,
+          248.5
+        ],
+        [
+          324.0,
+          247.5
+        ],
+        [
+          326.0,
+          247.5
+        ],
+        [
+          328.5,
+          250.0
+        ],
+        [
+          328.5,
+          253.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\212.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
