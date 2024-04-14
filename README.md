@@ -1,7 +1,7 @@
 # Aluminum-defect
 A Lightweight Convolutional Network for Few-Shot and Multi-Class Detection of Tiny Aluminum Defects
 
-The original paper can be found [here]([NETgonight/Aluminum-defect: ICIVC 2024 (github.com)](https://github.com/NETgonight/Aluminum-defect/tree/main/paper/A Lightweight Convolutional Network for Few-Shot and Multi-Class Detection of Tiny Aluminum Defects.pdf)).
+The original paper can be found [here](https://github.com/NETgonight/Aluminum-defect/tree/main/paper).
 
 ##  Challenges
 
@@ -23,7 +23,7 @@ To tackle the above challenges, we propose a **solution based on attention mecha
 
 We compared our model with traditional segmentation models, and the results are showcased below:
 
-![Network Comparison](image/Network_comparison.png)
+![Network Comparison](image/Network_comparision.png)
 
 The experimental results indicate that our method achieves **high precision (73.54% mIoU)** on a small sample aluminum sheet defect dataset. It also demonstrates **extremely fast inference speed (314.55 FPS)** on a single V100 GPU, along with a **small model size (0.114M parameters)**.
 
